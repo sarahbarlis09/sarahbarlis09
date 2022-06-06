@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahbarlis09
 - 👀 I’m interested in web development, game development and machine learning.
-- 🌱 I’m currently learning full stack web development foundation.
+- 🌱 I’m currently learning the foundation of full stack web development.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
